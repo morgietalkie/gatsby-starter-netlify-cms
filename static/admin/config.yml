@@ -1,5 +1,5 @@
 backend:
-  name: git-github
+  name: github
   repo: morgietalkie/gatsby-starter-netlify-cms
   branch: master
   commit_messages:
